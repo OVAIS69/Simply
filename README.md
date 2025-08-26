@@ -3,6 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/OVAIS69/Simply?color=blue)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/OVAIS69/Simply?color=brightgreen)  
 ![GitHub stars](https://img.shields.io/github/stars/OVAIS69/Simply?style=social)  
+**Live Demo for Desktop Only**
 [![Live Demo For Desktop Only ](https://img.shields.io/badge/Live%20Demo-View%20Here-orange?style=for-the-badge)](https://ovais69.github.io/Simply/)  
 
 **Simply** is a lightweight and minimal **portfolio/landing page template** designed for clarity, elegance, and speed.  
